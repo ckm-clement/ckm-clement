@@ -60,7 +60,6 @@ Hey there! I'm a enthusiast developer with a knack for turning ideas into realit
             <!-- Add your GitHub stats widget here -->
              <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ckm-clement&show_icons=true&theme=dark" />
         </td>
-
     </tr>
 </table>
 
