@@ -58,7 +58,7 @@ Hey there! I'm a enthusiast developer with a knack for turning ideas into realit
     <tr border="0">
         <td width="50%" align="center">
             <!-- Add your GitHub stats widget here -->
-            https://github-readme-stats.vercel.app/api?username=ckm-clement&show_icons=true&theme=dark)
+           ![Your Name's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=ckm-clement&show_icons=true&theme=dark)
         </td>
         <td width="50%" align="center">
             <!-- Add your top languages widget here -->
