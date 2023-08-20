@@ -62,10 +62,3 @@
 </table>
 
 ---
-
-
-
-
-<p align="center">
-    Made by: Clement
-</p>
