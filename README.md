@@ -12,10 +12,8 @@
 ---
 
 ### 🚀 About Me
-
-Hey there! I'm a enthusiast developer with a knack for turning ideas into reality through code. As a tech enthusiast, I'm always exploring new technologies and pushing my limits to create meaningful applications.
-
 - 🔭 I’m currently working on honing my skills and crafting innovative solutions.
+- 🌱 I’m currently learning MERN stack to level up my expertise.
 - 💬 Ask me about anything related to tech and development!
 
 ---
